@@ -1,4 +1,6 @@
-# Project Template
+## NOTE: The files contained in this repo were uploaded from an external repo from my personal SCHOOL account.
+
+Here is the link to the original repo: https://github.com/HMC-CS123-F23/cs-123-class-project-isaac-weston-mehak
 
 **Team Members**  
 Isaac Chung, Weston Crewe, Mehak Garg
