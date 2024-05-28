@@ -4,6 +4,8 @@
 
 Here is the link to the original repo: https://github.com/HMC-CS123-F23/cs-123-class-project-isaac-weston-mehak
 
+Here is also a Google Colab Version of our repo: https://colab.research.google.com/drive/1XXYLy1uev5GhNJN4wP6Aua9hpgtjdb69?authuser=2#scrollTo=y6G0-xZCtTMy
+
 **Team Members**  
 Isaac Chung, Weston Crewe, Mehak Garg
 
