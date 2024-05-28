@@ -1,0 +1,2 @@
+Programmers are responsible for software quality - quality in their own work, quality in the products that incorporate their work, and quality at the interfaces between components. Quality has never been and will never be tested in. The responsibility is both moral and professional.
+ -- Boris Beizer, _Software Testing Techniques_

@@ -1,0 +1,27 @@
+### Sources We've Used
+
+1. “API Calls.” API Calls | Spotify for Developers, [developer.spotify.com/documentation/web-api/concepts/api-calls](developer.spotify.com/documentation/web-api/concepts/api-calls). Accessed 20 Oct. 2023. 
+
+2. “Client Credentials Flow.” Client Credentials Flow | Spotify for Developers, https://developer.spotify.com/documentation/web-api/tutorials/client-credentials-flow. Accessed 29 Nov. 2023. 
+
+3. Codes, Imdad, director. YouTube, YouTube, 16 Sept. 2023, https://www.youtube.com/watch?v=olY_2MW4Eik. Accessed 29 Nov. 2023. 
+
+4. Developer, Akamai, director. YouTube, YouTube, 7 Dec. 2022, https://www.youtube.com/watch?v=WAmEZBEeNmg. Accessed 29 Nov. 2023. 
+
+5. “How to Block Calls to Print?” Stack Overflow, 1 Feb. 1958, https://stackoverflow.com/questions/8391411/how-to-block-calls-to-print#:~:text=If%20you%20don’t%20want,the%20top%20of%20the%20file.
+
+6. “How to Create Pandas DataFrame in Python.” Data to Fish, https://datatofish.com/create-pandas-dataframe/. Accessed 29 Nov. 2023. 
+
+7. Lofaro, Lucas. “Working with JSON Data in Python.” Real Python, Real Python, 4 Aug. 2023, https://realpython.com/python-json/. 
+
+8. MozDevNet. “Introduction to Web Apis - Learn Web Development: MDN.” Learn Web Development | MDN, https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction. Accessed 20 Oct. 2023. 
+
+9. “Rate Limits.” Rate Limits | Spotify for Developers, https://developer.spotify.com/documentation/web-api/concepts/rate-limits. Accessed 29 Nov. 2023. 
+
+10. “Spotipy Authorization Code Flow.” Stack Overflow, 1 Nov. 1960, https://stackoverflow.com/questions/25711711/spotipy-authorization-code-flow. 
+
+11. Tingle, Max. “Getting Started with Spotify’s API & Spotipy.” Medium, Medium, 3 Oct. 2019, https://medium.com/@maxtingle/getting-started-with-spotifys-api-spotipy-197c3dc6353b. 
+
+12. Watts, Cameron. “Extracting Song Data from the Spotify API Using Python.” Medium, Towards Data Science, 10 Feb. 2022, https://towardsdatascience.com/extracting-song-data-from-the-spotify-api-using-python-b1e79388d50. 
+
+13. “What is an API (Application Programming Interface)” Amazon, The University, 1978, [aws.amazon.com/what-is/api/](aws.amazon.com/what-is/api/). 
